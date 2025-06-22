@@ -1,0 +1,8 @@
+1. Developed a full-stack web application for managing customers and their products.
+2. Built React frontend with features to list, add, edit, and delete products for selected customers.
+3. Implemented backend RESTful APIs using ASP.NET Core for CRUD operations on customers and products.
+4. Integrated API calls in frontend to fetch and update data dynamically.
+5. Added user-friendly UI with Material-UI components, including DataGrid for tabular data and alerts for operation     feedback.
+6. Ensured proper state management and asynchronous API handling in React.
+7. Used JSON file as a simple data store on the backend.
+8. Implemented validation and error handling for API requests and form inputs.
